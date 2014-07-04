@@ -1,0 +1,6 @@
+//
+// This is a sample text file to be used to show
+// how rebasing works
+//
+
+List down some food:

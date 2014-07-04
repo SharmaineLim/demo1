@@ -1,5 +1,6 @@
 //
-// This is a sample text file
+// This is a sample text file to be used to show
+// how Git works
 //
 
 I
