@@ -1,3 +1,8 @@
+//
+// This is a sample text file to be used to show
+// how branching and merging works
+//
+
 I
 love
 apple pie
