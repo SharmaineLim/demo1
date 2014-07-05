@@ -3,4 +3,8 @@
 // how stashing works
 //
 
-List down some food:
+List down some fruits:
+
+
+
+List down some vegetables:
