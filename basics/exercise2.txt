@@ -10,11 +10,15 @@ Sharmaine & 2
 
 5 & 6
 
+<<<<<<< HEAD
 Joanna  & Winona Louise
+=======
+DJ Joanna & 8
+>>>>>>> 75532ace6a163f1043daa9faad130b9e76a08fc1
 
 Christian & 10
 
-11 & Its all Manto now...
+Jolo is life & Its all Manto now...
 
 13 & 14
 
