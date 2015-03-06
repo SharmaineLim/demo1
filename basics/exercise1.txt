@@ -14,7 +14,7 @@ Dominique The Great
 
 5 Janica Lam
 
-Angeline Tan    
+Angeline Tan
 
 Joanna :)
 
@@ -22,14 +22,18 @@ Winona here hihi
 
 9 XGBXGB
 
-John Is Possum
+10
 
-Jolo is Awesome
+11
 
-Manto is threesome
+12
 
+<<<<<<< HEAD
+13 TRIALTRIAL
+=======
 Richard
 
+>>>>>>> 67c1f3d250503f25ea768d3941ba99af9ed5e2f4
 
 14
 
