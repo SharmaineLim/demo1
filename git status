@@ -1,0 +1,445 @@
+[33mcommit ffc0bfae6fa1d503abb0b5725b6d2b361aca7049[m
+Author: JoannaLau <joanna_chua_lau@yahoo.com>
+Date:   Fri Mar 6 11:32:55 2015 +0800
+
+    Changed number 7 to my name.
+
+[33mcommit 4ffd6ea87558d2aa0c4dc2909711b64195b77132[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Mar 6 10:49:31 2015 +0800
+
+    changed apple pies to something else, and fixed some other thing
+
+[33mcommit bce80e365e55b0ee43b0408376df9d8b0609d574[m
+Merge: 8b3f632 25f9dec
+Author: Ian <bachiniadrian@gmail.com>
+Date:   Fri Oct 24 10:46:20 2014 +0800
+
+    Merge branch 'master' of https://github.com/sharmainelim/demo1
+    
+    Conflicts:
+    	basics/exercise2.txt
+
+[33mcommit 8b3f63269e2587532e56ec8fee2ba4b8332debd8[m
+Author: Ian <bachiniadrian@gmail.com>
+Date:   Fri Oct 24 10:35:17 2014 +0800
+
+    change
+
+[33mcommit 25f9decf441b8c81a9354d743d623b2c34c03c55[m
+Merge: e27cb6c 71d81d8
+Author: Mark Arevalo <mark.arevalo18@yahoo.com>
+Date:   Fri Oct 24 10:37:55 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit e27cb6cef264faf407435c3f92d4e3841383e222[m
+Author: Mark Arevalo <mark.arevalo18@yahoo.com>
+Date:   Fri Oct 24 10:37:42 2014 +0800
+
+    changed 1 & 2 to 1 & Mark :)
+
+[33mcommit f05bb1d8eaa1e79a92c866ce291184285f454d08[m
+Author: Ian <bachiniadrian@gmail.com>
+Date:   Fri Oct 24 10:35:17 2014 +0800
+
+    Changed 4 to Ian
+
+[33mcommit 71d81d86ed0b03eda3a90c29934545e2df410091[m
+Merge: f396a72 72f9fef
+Author: hrc_fong@yahoo.com <G301@G301MAC-08.G301net.dlsu.edu.ph>
+Date:   Fri Oct 24 10:34:23 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit f396a7200987f558b7b8f4fb2b75dffcfb3ff1ac[m
+Author: hrc_fong@yahoo.com <G301@G301MAC-08.G301net.dlsu.edu.ph>
+Date:   Fri Oct 24 10:34:10 2014 +0800
+
+    Changed 3 to Hillary
+
+[33mcommit 72f9feff404c20012045910f622f9f7b5b0df12a[m
+Merge: 55a0269 b4e4f9b
+Author: Mark Arevalo <mark.arevalo18@yahoo.com>
+Date:   Fri Oct 24 10:30:00 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit b4e4f9bd1f854dd4a543fc3f16949231a00de805[m
+Merge: 1897be8 7ebc0f3
+Author: hrc_fong@yahoo.com <G301@G301MAC-08.G301net.dlsu.edu.ph>
+Date:   Fri Oct 24 10:28:46 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit 55a02694791d7d183eb0bf2dca28a369a6c0112d[m
+Merge: c1a5877 7ebc0f3
+Author: Mark Arevalo <mark.arevalo18@yahoo.com>
+Date:   Fri Oct 24 10:28:37 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit 1897be8eee8383e9815c4ec8f252c262f0b3d89d[m
+Author: hrc_fong@yahoo.com <G301@G301MAC-08.G301net.dlsu.edu.ph>
+Date:   Fri Oct 24 10:22:42 2014 +0800
+
+    Changed 3 to Hillary
+
+[33mcommit c1a5877a1390ae6d14e8d0ab978e3217e37ecbed[m
+Author: Mark Arevalo <mark.arevalo18@yahoo.com>
+Date:   Fri Oct 24 10:20:50 2014 +0800
+
+    Changed 2 to Mark Anthony Arevalo :)
+
+[33mcommit eb8fe786a65408c58557eda98f294233d585949a[m
+Author: Ian <bachiniadrian@gmail.com>
+Date:   Fri Oct 24 10:20:40 2014 +0800
+
+    Changes 2 to Ian
+
+[33mcommit 7ebc0f3dd6d5053ff7348e236978d5f9a009e142[m
+Merge: a85a69a eb8fe78
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Oct 24 10:17:51 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit a85a69af2b1cfb0931b07dbf7ba7e97b8e96e961[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Oct 24 10:10:54 2014 +0800
+
+    Changed 1 to Sharmaine
+
+[33mcommit 708452a77fbb14ed46afb7cb06cba7b8784e498e[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Oct 24 09:48:01 2014 +0800
+
+    Changed apple pie to Netcentric
+
+[33mcommit 1aa6a78d77904db443a0021ef5ca3c99fadd1ad9[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Oct 24 07:23:43 2014 +0800
+
+    Reset
+
+[33mcommit b12b5c95753fb92d7739beb321931f40fb6cf9d6[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Sun Jul 6 07:38:12 2014 +0800
+
+    added Fruits and Vegetables headers
+
+[33mcommit 58c5dc78bdcc9f606be07c2d6d4dede886f07079[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Sun Jul 6 07:37:51 2014 +0800
+
+    added Fruits and Vegetables headers
+
+[33mcommit 9a4380ae1e7a9a020c3378a8ed1835761f0f265f[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Sun Jul 6 07:37:23 2014 +0800
+
+    added Food and Desserts headers
+
+[33mcommit e019e376ee4349e23bc3f2e23c3a9b1bad773089[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Sun Jul 6 07:36:49 2014 +0800
+
+    added Food and Dessert headers
+
+[33mcommit a841c827504dd7c533e1f4f7e340de4439eb165c[m
+Merge: ebb916a d35c344
+Author: HighRoller69 <raulm717@gmail.com>
+Date:   Sat Jul 5 11:40:01 2014 +0800
+
+    changed line 2
+
+[33mcommit d35c344715755ab6e9558f353cc3fb665e8b4953[m
+Merge: 6f3e16f 2236cb5
+Author: andric <andric_shen@dlsu.edu.ph>
+Date:   Sat Jul 5 11:38:03 2014 +0800
+
+    merged
+
+[33mcommit 2236cb56e6cb8441c2a907327a4776ab2f695268[m
+Merge: ede1d24 915eb25
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Sat Jul 5 11:36:21 2014 +0800
+
+    merged Matthew's and Sharmaine's lines
+
+[33mcommit 915eb256ddde4365f8ae9a3e548a35beba830395[m
+Merge: be694f9 9e0d622
+Author: Aids <aidsperez@yahoo.com>
+Date:   Sat Jul 5 11:32:30 2014 +0800
+
+    Merge branch 'master' of http://github.com/SharmaineLim/demo1
+
+[33mcommit 9e0d622538c7f7cea6b379a7a3f0a29fc6a71dee[m
+Merge: 766840c a3d05a6
+Author: herbert <lejames20@gmail.com>
+Date:   Sat Jul 5 11:31:50 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit ede1d245b3e0109e6180fd8aa0c1fbea6790d54c[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Sat Jul 5 11:30:42 2014 +0800
+
+    Added my name: Sharmaine on #1
+
+[33mcommit 6f3e16fa01d098145669ddb2ad28b1e8d2db4df7[m
+Author: andric <andric_shen@dlsu.edu.ph>
+Date:   Sat Jul 5 11:30:39 2014 +0800
+
+    Added cute
+
+[33mcommit 766840c19ac56e9927f8daebd23233e68a602bf3[m
+Author: herbert <lejames20@gmail.com>
+Date:   Sat Jul 5 11:30:39 2014 +0800
+
+    Added HI HERBRET
+
+[33mcommit a3d05a65e5711610dadd4ae0059659330779e8fd[m
+Author: Matthew <givme_five5@yahoo.com>
+Date:   Sat Jul 5 11:19:38 2014 +0800
+
+    Changed 2
+
+[33mcommit ebb916ae91381af957d005be4b94677db8f8f6c9[m
+Author: HighRoller69 <raulm717@gmail.com>
+Date:   Sat Jul 5 11:30:23 2014 +0800
+
+    changed 5 to Raul
+
+[33mcommit be694f90a1dfaa3b9afa91cc6df97b29503c2607[m
+Author: Aids <aidsperez@yahoo.com>
+Date:   Sat Jul 5 11:30:07 2014 +0800
+
+    changes
+
+[33mcommit d8cde2393a76b41b838551065c464a048ccb9204[m
+Merge: 8b8fccd 298dcd0
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Sat Jul 5 11:26:19 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit 298dcd0527707b2c5c29159582f827f3a978c7e5[m
+Merge: 67a8097 72fc09f
+Author: Matthew <givme_five5@yahoo.com>
+Date:   Sat Jul 5 11:19:38 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit 67a8097b49eabe66394d788c4a598c7ad2256526[m
+Merge: fad9f7e ee22af3
+Author: Matthew <givme_five5@yahoo.com>
+Date:   Sat Jul 5 11:19:38 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit 72fc09f2c3d2a8bc8da4cb8c4f17c7a2a2aa5b14[m
+Merge: c115ea1 ee22af3
+Author: Aids <aidsperez@yahoo.com>
+Date:   Sat Jul 5 11:24:42 2014 +0800
+
+    Merge branch 'master' of http://github.com/SharmaineLim/demo1
+
+[33mcommit ee22af3a305ae2bfb15b4d3c64ed2a6bc8349ff3[m
+Merge: ecd2d31 ddb1903
+Author: HighRoller69 <raulm717@gmail.com>
+Date:   Sat Jul 5 11:24:18 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit ddb1903eddc697085ea27e5fc0692b446ee97f45[m
+Merge: dbd101f e7fa4b9
+Author: herbert <lejames20@gmail.com>
+Date:   Sat Jul 5 11:23:46 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit ecd2d3131c69e852eb7eb3169750f70f022662b5[m
+Merge: 1bef201 6805c74
+Author: HighRoller69 <raulm717@gmail.com>
+Date:   Sat Jul 5 11:22:55 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit e7fa4b9e4f943e10304690d4696d245c8a037f07[m
+Merge: fcb3a47 6805c74
+Author: andric <andric_shen@dlsu.edu.ph>
+Date:   Sat Jul 5 11:22:46 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit fad9f7eaebb1c2cc5611ed0e701e24ff5186646e[m
+Merge: 44393b9 6805c74
+Author: Matthew <givme_five5@yahoo.com>
+Date:   Sat Jul 5 11:19:38 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit 8b8fccdf414d5c151bd10ac495e1dacb0ad83f74[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Sat Jul 5 11:20:03 2014 +0800
+
+    added my name: Sharmaine
+
+[33mcommit c115ea15d253619e69683aca3dc9cf5e082f29be[m
+Author: Aids <aidsperez@yahoo.com>
+Date:   Sat Jul 5 11:20:02 2014 +0800
+
+    the truth
+
+[33mcommit 1bef201ad8db00ef769093afc12fc2760e9741d9[m
+Author: HighRoller69 <raulm717@gmail.com>
+Date:   Sat Jul 5 11:20:00 2014 +0800
+
+    changed 5 to I love aids
+
+[33mcommit 44393b9bc85985fb922bf4c120d478ad917de54b[m
+Author: Matthew <givme_five5@yahoo.com>
+Date:   Sat Jul 5 11:19:38 2014 +0800
+
+    changed 2 to Matt
+
+[33mcommit dbd101f13f79f9ded7bd57d1e5f9c0918272b1ba[m
+Author: herbert <lejames20@gmail.com>
+Date:   Sat Jul 5 11:19:56 2014 +0800
+
+    Change 4 to HERBERT
+
+[33mcommit fcb3a47d096b14c83f2c651ecbbb9f9fc5823fa4[m
+Author: andric <andric_shen@dlsu.edu.ph>
+Date:   Sat Jul 5 11:19:53 2014 +0800
+
+    Added Hello
+
+[33mcommit 6805c742f6f5fd11a4e02f86a0635089d1e83ba8[m
+Author: Alron <alronjan@yahoo.com>
+Date:   Sat Jul 5 11:18:32 2014 +0800
+
+    Commit! Changed line 7.
+
+[33mcommit 59ae336e545cc0217275e744d1d87adbd1bc132a[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Sat Jul 5 10:52:09 2014 +0800
+
+    changed apple pie to netcentric
+
+[33mcommit cb800b22cc8973a5f33361dd5f1ff788e134c9d4[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 11:32:08 2014 +0800
+
+    Made copies of files in originalfiles
+
+[33mcommit b7d10d63350aa33302453ccf0e728b9f2bbde396[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 11:30:24 2014 +0800
+
+    List food as branch examples
+
+[33mcommit 7c733ddd7b7c47631ac1bf438d1df81a105378a1[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 11:22:47 2014 +0800
+
+    Fixing
+
+[33mcommit 3b9cb912cd2b16c78db3a613015c7023b8d1b6c5[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 11:20:23 2014 +0800
+
+    Fixing
+
+[33mcommit 5d3596257f2fa286c043fece48c01d8fb26fc570[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 10:25:32 2014 +0800
+
+    Added comments, renamed files
+
+[33mcommit d19c439c9f83cfdf047fcdee4d5eec15aede95fc[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:48:07 2014 +0800
+
+    Reset example3.txt
+
+[33mcommit ef1fa28272f93b366299d1f86395481dc5734a3f[m
+Merge: df18a92 04e179d
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:47:23 2014 +0800
+
+    merge commit
+
+[33mcommit df18a92699d638547bbe5912dac3d192f5f58bf6[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:40:04 2014 +0800
+
+    Updated example3 with Sharmaine
+
+[33mcommit 04e179dea036c64a1866a1688e2bcc2c85e73e33[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:38:51 2014 +0800
+
+    Update example3.txt
+
+[33mcommit 444d2b4a73c4a655be0894eedefeb322431d5494[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:38:32 2014 +0800
+
+    Reset example2.txt
+
+[33mcommit 80f05e260f6d1ad172645744bc0ae382c3451db2[m
+Merge: b90a9f1 040dc07
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:36:57 2014 +0800
+
+    Merge branch 'master' of https://github.com/SharmaineLim/demo1
+
+[33mcommit b90a9f1484f8061bcbaf74423a796be1b9bc2458[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:35:15 2014 +0800
+
+    Update with Sharmaine
+
+[33mcommit 040dc070090dffc4ea275c4dcad7c4bd21472f2a[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Fri Jul 4 09:34:45 2014 +0800
+
+    Update example2.txt
+
+[33mcommit 61c88fcacb8bd88f6b9e7e8696c4e76c12806f06[m
+Author: Sharmaine Lim <SharmaineLim@users.noreply.github.com>
+Date:   Thu Jul 3 16:48:29 2014 +0800
+
+    Placed copies in folders
+
+[33mcommit a3cc471d69c6dc90badd90aca80ac97f1f7e3513[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Thu Jul 3 13:32:06 2014 +0800
+
+    Update README.md
+
+[33mcommit d63ad6f4db3bd83931c9db5ae172e98e310d7233[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Thu Jul 3 13:30:00 2014 +0800
+
+    Create example3.txt
+
+[33mcommit 2d85f34d6c5e20264e1c771dc795bdf96a4c462c[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Thu Jul 3 13:27:22 2014 +0800
+
+    Create example2.txt
+
+[33mcommit 432d35163ecf5331291f3862c5f4ab4f584ddf18[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Thu Jul 3 13:24:52 2014 +0800
+
+    Create example1.txt
+
+[33mcommit 96d4571bcf86fc4fee79fc4e2e7b908be0f2fda9[m
+Author: SharmaineLim <SharmaineLim@users.noreply.github.com>
+Date:   Thu Jul 3 13:23:41 2014 +0800
+
+    Initial commit
