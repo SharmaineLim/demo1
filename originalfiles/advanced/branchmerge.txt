@@ -1,0 +1,16 @@
+//
+// This is a sample text file to be used to show
+// how branching and merging works
+//
+
+I
+love
+apple pie
+
+I love apple pie
+
+You can't make me stop loving apple pie
+
+Why do you hate apple pie so much?
+
+Huhu
