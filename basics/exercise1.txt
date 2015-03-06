@@ -10,7 +10,7 @@ ELDES
 
 3 Miguel Mercado
 
-4
+Dominique The Great
 
 5 Janica Lam
 
@@ -18,9 +18,9 @@ Angeline Tan
 
 Joanna :)
 
-8
+Winona here hihi
 
-9
+9 XGBXGB
 
 10
 
@@ -28,7 +28,12 @@ Joanna :)
 
 12
 
+<<<<<<< HEAD
 13 TRIALTRIAL
+=======
+Richard
+
+>>>>>>> 67c1f3d250503f25ea768d3941ba99af9ed5e2f4
 
 14
 
